@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @crazyne55
 - 📜 I know *at least the basics of* Javascript, Lua, Python, PHP, HTML, CSS, CSharp and C++ (for arduinos)
-- 📫 You can reach me on my discord server <paste url here>
+- 📫 You can reach me on my [discord server](https://discord.gg/HCXTq73hfK)
