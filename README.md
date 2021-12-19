@@ -5,6 +5,3 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O47D5CF)
 - 📫 You can reach me on my Discord server <br> 
 [![discord server](https://discord.com/assets/cb48d2a8d4991281d7a6a95d2f58195e.svg)](https://discord.gg/HCXTq73hfK)
-
-
-uploading logos onto my main github repo so I'm not using urls from unreliable sites
