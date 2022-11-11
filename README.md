@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @crazyne55
 - 📜 I know *at least the basics of* Javascript, Lua, Python, PHP, HTML, CSS, CSharp
 - 📺 I make content, *rarely though...* \[ [YouTube](https://www.youtube.com/channel/UCv-kPLOqe308WUazNcSjxtQ) | [Twitch](https://www.twitch.tv/crazyne55) \]
-- 📫 You can reach me on my Discord server \[ [discord server](https://discord.gg/HCXTq73hfK) \]
+- 📫 You can reach me on either my \[ [Discord server](https://discord.gg/HCXTq73hfK) \] or \[ [Guilded group](https://www.guilded.gg/i/kgNqYvA2) \]
